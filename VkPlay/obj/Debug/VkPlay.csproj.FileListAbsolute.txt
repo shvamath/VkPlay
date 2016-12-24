@@ -1,0 +1,78 @@
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\VkPlay.exe.config
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\VkPlay.exe
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\VkPlay.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.Form1.resources
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.Form2.resources
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.Properties.Resources.resources
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.GenerateResource.Cache
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.exe
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.dll
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.xml
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\Interop.WMPLib.dll
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\AxInterop.WMPLib.dll
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\Interop.WMPLib.dll
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\AxInterop.WMPLib.dll
+c:\users\matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.ResolveComReference.cache
+C:\Users\Matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\NAudio.dll
+C:\Users\Matthew\documents\visual studio 2015\Projects\VkPlay\VkPlay\bin\Debug\NAudio.xml
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\VkPlay.exe.config
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.ResolveComReference.cache
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.exe
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.pdb
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\VkPlay.exe
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\VkPlay.pdb
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\NAudio.dll
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\NAudio.xml
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.Form1.resources
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.Form2.resources
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Projects\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\VkPlay.exe.config
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.ResolveComReference.cache
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.exe
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.pdb
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.Form1.resources
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.Form2.resources
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.Properties.Resources.resources
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\VkPlay.exe
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\VkPlay.pdb
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\NAudio.dll
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\NAudio.xml
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Matthew\Desktop\VkPlay\VkPlay\obj\Debug\VkPlay.Form3.resources
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\VkPlay.exe.config
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.ResolveComReference.cache
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.exe
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.pdb
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\VkPlay.exe
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\VkPlay.pdb
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\NAudio.dll
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\NAudio.xml
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.Form1.resources
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.Form2.resources
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.Form3.resources
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Code\ProjectsCodes\VkPlay\VkPlay\obj\Debug\VkPlay.csproj.GenerateResource.Cache
